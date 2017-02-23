@@ -45,7 +45,7 @@ PLATFORMS
 DEPENDENCIES
   airspace-jekyll!
   bundler (~> 1.12)
-  jekyll (~> 3.2)
+  jekyll
   rake (~> 10.0)
 
 BUNDLED WITH
